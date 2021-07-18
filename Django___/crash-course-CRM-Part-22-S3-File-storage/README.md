@@ -1,1 +1,0 @@
-Django customer management platform
